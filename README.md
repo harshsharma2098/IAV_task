@@ -2,7 +2,7 @@
 
 ### The project consists of two parts:
 1. First part where a page displays my CV.
-2. Second part where I have integerated a LLM API (Llama-3.1-70b-versatile)
+2. Second part where I have integerated a LLM API (llama3-70b-8192)
 
 ### To use the API follow the mentioned instructions:
 1. Create an account on "groq.com".
