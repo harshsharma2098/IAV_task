@@ -26,7 +26,7 @@ def show_cv():
         pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>'
         st.markdown(pdf_display, unsafe_allow_html=True)
 
-    show_pdf('data/Harsh_CV_Latest_de.pdf')
+    show_pdf('project/data/Harsh_CV_Latest_de.pdf')
 
 # Page 3: Generate a Joke
 def generate_joke():
